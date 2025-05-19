@@ -1,0 +1,3 @@
+Biyomedikal,123
+Bilgisayar,122
+Yazilim,121
